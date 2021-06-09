@@ -1,0 +1,12 @@
+{
+  "defaults": [
+    {
+      "messages": [
+        "Hello !",
+      ],
+      "emojis": [
+        "\uD83D\uDC4D"
+      ]
+    }
+  ]
+}
